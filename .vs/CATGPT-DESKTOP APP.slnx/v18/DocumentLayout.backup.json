@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CATGPT\\CATGPT-DESKTOP APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|f:\\catgpt\\catgpt-desktop app\\catgpt-desktop app\\forms\\signform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\forms\\signform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\forms\\signform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\forms\\signform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\forms\\aboutform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\forms\\aboutform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\forms\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\forms\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\forms\\aboutform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\forms\\aboutform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|F:\\CATGPT\\CATGPT-DESKTOP APP\\catgpt-desktop app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2625B1-0B2E-4346-A028-F6FF1183A3B5}|CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP.csproj|solutionrelative:catgpt-desktop app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\HomeForm.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Forms\\HomeForm.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\HomeForm.cs [Design]",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Forms\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:19:25.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Form1.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Form1.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Form1.cs [Design]",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:55:12.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignForm.cs [Design]",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\SignForm.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Forms\\SignForm.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\SignForm.cs [Design]",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Forms\\SignForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:40:35.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\HomeForm.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Forms\\HomeForm.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\HomeForm.cs",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Forms\\HomeForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:22:20.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignForm.cs",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\SignForm.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Forms\\SignForm.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\SignForm.cs",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Forms\\SignForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:24:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutForm1.cs [Design]",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\AboutForm1.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Forms\\AboutForm1.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\AboutForm1.cs [Design]",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Forms\\AboutForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:19:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Form1.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Form1.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Form1.cs",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwD4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:55:39.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeForm.Designer.cs",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\HomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Forms\\HomeForm.Designer.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\HomeForm.Designer.cs",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Forms\\HomeForm.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:44:34.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutForm1.cs",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\AboutForm1.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Forms\\AboutForm1.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Forms\\AboutForm1.cs",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Forms\\AboutForm1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:23:21.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CATGPT-DESKTOP APP\\Form1.Designer.cs",
+              "ToolTip": "F:\\CATGPT\\CATGPT-DESKTOP APP\\CATGPT-DESKTOP APP\\Form1.Designer.cs",
+              "RelativeToolTip": "CATGPT-DESKTOP APP\\Form1.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwG0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:15:06.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
