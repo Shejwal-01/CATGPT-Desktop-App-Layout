@@ -1,14 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Runtime.Remoting.Channels;
-using System.Text;
-using System.Threading.Tasks;
+
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+
 
 namespace CATGPT_DESKTOP_APP
 {
@@ -36,7 +29,7 @@ namespace CATGPT_DESKTOP_APP
             {
                 activeForm.Close();
             }
-            ActivateButton(btnSender);
+            
             activeForm = childForm;
             childForm.TopLevel = false;
             childForm.FormBorderStyle= FormBorderStyle.None;
@@ -61,20 +54,20 @@ namespace CATGPT_DESKTOP_APP
         {
             OpenChildForm(new Forms.HomeForm(), sender);
            
-            ActivateButton(sender);
+            
 
         }
 
         private void buttonSign_Click(object sender, EventArgs e)
         {
             OpenChildForm(new Forms.SignForm(), sender);
-            ActivateButton(sender);
+            
         }
 
         private void buttonAbout_Click(object sender, EventArgs e)
         {
             OpenChildForm(new Forms.AboutForm(), sender);
-            ActivateButton(sender);
+            
         }
 
         
