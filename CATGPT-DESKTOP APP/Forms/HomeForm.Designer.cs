@@ -59,8 +59,8 @@
             this.InputBox.Size = new System.Drawing.Size(800, 96);
             this.InputBox.TabIndex = 3;
             this.InputBox.Text = "";
-            this.InputBox.Enter += new System.EventHandler(this.InputBox_Enter);
-            this.InputBox.Leave += new System.EventHandler(this.InputBox_Leave);
+            this.InputBox.Enter += new System.EventHandler(this.InputBox_GotFocus);
+            this.InputBox.Leave += new System.EventHandler(this.InputBox_LostFocus);
             // 
             // panel2
             // 
@@ -70,7 +70,7 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(800, 350);
             this.panel2.TabIndex = 1;
-            this.panel2.Click += new System.EventHandler(this.HomeForm_Click);
+            this.panel2.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // pictureBox1
             // 

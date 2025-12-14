@@ -53,6 +53,7 @@
             this.panelMenu.Name = "panelMenu";
             this.panelMenu.Size = new System.Drawing.Size(220, 450);
             this.panelMenu.TabIndex = 0;
+            this.panelMenu.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // buttonAbout
             // 
@@ -116,6 +117,7 @@
             this.panelLogo.Name = "panelLogo";
             this.panelLogo.Size = new System.Drawing.Size(220, 80);
             this.panelLogo.TabIndex = 0;
+            this.panelLogo.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // panel1
             // 
@@ -126,6 +128,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(580, 80);
             this.panel1.TabIndex = 1;
+            this.panel1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // labelTitle
             // 
@@ -135,7 +138,7 @@
             this.labelTitle.ForeColor = System.Drawing.SystemColors.Menu;
             this.labelTitle.Location = new System.Drawing.Point(221, 18);
             this.labelTitle.Name = "labelTitle";
-            this.labelTitle.Size = new System.Drawing.Size(140, 49);
+            this.labelTitle.Size = new System.Drawing.Size(135, 48);
             this.labelTitle.TabIndex = 0;
             this.labelTitle.Text = "CATGPT";
             // 

@@ -83,9 +83,9 @@
             this.textpswd.Location = new System.Drawing.Point(485, 319);
             this.textpswd.Multiline = true;
             this.textpswd.Name = "textpswd";
+            this.textpswd.PasswordChar = '*';
             this.textpswd.Size = new System.Drawing.Size(131, 30);
             this.textpswd.TabIndex = 8;
-            this.textpswd.TextChanged += new System.EventHandler(this.textpswd_TextChanged);
             // 
             // label2
             // 
@@ -98,7 +98,6 @@
             this.label2.Size = new System.Drawing.Size(131, 36);
             this.label2.TabIndex = 7;
             this.label2.Text = "password : ";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // textuname
             // 
@@ -111,7 +110,6 @@
             this.textuname.Name = "textuname";
             this.textuname.Size = new System.Drawing.Size(131, 30);
             this.textuname.TabIndex = 6;
-            this.textuname.TextChanged += new System.EventHandler(this.textuname_TextChanged);
             // 
             // pictureBox2
             // 
@@ -152,7 +150,6 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "SignForm";
             this.Text = "SignForm";
-            this.Load += new System.EventHandler(this.SignForm_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
